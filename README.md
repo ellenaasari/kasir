@@ -1,4 +1,4 @@
-# kasir-1
+<h1 align="center">kasir-1</h1>
 project kasir ini merupakan project milik bapak Agus Budi Setiyawan, S.Kom. sebagai guru pengajar kelas XII RPL
 
 ## Installation
